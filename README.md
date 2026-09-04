@@ -16,8 +16,6 @@ machine learning, web development, and technology-driven solutions.
 - JavaScript
 - Java
 - Python
-- C++
-- Spring Boot
 - MySQL
 - Git
 - GitHub
@@ -26,12 +24,7 @@ machine learning, web development, and technology-driven solutions.
 
 ### ResQ Vision
 
-AI-powered accident detection and emergency response system.
-
-### Adaptive Behavioral Trust Network
-
-Self-learning trust-based network defense approach for
-decentralized environments.
+ResQ Vision is an AI-powered accident detection and emergency response system that uses computer vision to detect road accidents through CCTV cameras and automatically generate alerts with location and severity information for faster emergency assistance.
 
 ### College Course Registration System
 
