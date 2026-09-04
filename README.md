@@ -118,13 +118,6 @@ The system focuses on:
 - Registration history
 - Academic credit progress tracking
 
-### 4. Adaptive Behavioral Trust Network
-
-ABTN is a self-learning trust-based network defense concept for
-decentralized environments.
-
-The project focuses on adapting trust decisions according to
-network behavior.
 
 ## Technologies Used
 
