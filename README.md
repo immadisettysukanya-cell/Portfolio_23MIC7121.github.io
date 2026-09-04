@@ -1,15 +1,132 @@
 # Sukanya Immadisetty - Portfolio
 
-Personal portfolio website showcasing my education, technical skills,
-projects, and professional interests.
+Welcome to my personal portfolio website.
 
-## About
+This portfolio showcases my educational background, technical skills,
+projects and contact information as an Integrated M.Tech Computer Science
+and Engineering student.
 
-I am an Integrated M.Tech Computer Science and Engineering student
-at VIT-AP University with interests in software development,
-machine learning, web development, and technology-driven solutions.
+## About Me
 
-## Technologies
+I am an enthusiastic and motivated Computer Science and Engineering student
+pursuing an Integrated M.Tech at VIT-AP University.
+
+I am interested in software development, web technologies, problem solving
+and learning new technologies.
+
+I am currently looking for internship and project opportunities where I can
+gain practical experience, work with a team and contribute to real-world
+projects.
+
+## Education
+
+### Integrated M.Tech - Computer Science and Engineering
+
+**VIT-AP University**
+
+2023 - 2028
+
+### Intermediate
+
+**Narayana Junior College**
+
+2021 - 2023
+
+Percentage: 95%
+
+### Secondary School Certificate
+
+**Sri Chaitanya School**
+
+2020 - 2021
+
+CGPA: 10
+
+## Skills
+
+### Programming
+
+- Java
+- Python
+- C++
+- JavaScript
+
+### Web Technologies
+
+- HTML
+- CSS
+- JavaScript
+
+### Cybersecurity Basics
+
+- Encryption
+- RSA
+- Network Security
+
+### Tools and Technologies
+
+- Git
+- GitHub
+- MySQL
+- Canva
+
+### Professional Skills
+
+- Leadership
+- Team Management
+- Time Management
+- Communication
+
+## Projects
+
+### 1. ResQ Vision - AI-Powered Accident Detection System
+
+ResQ Vision is an AI-based system designed to detect road accidents
+using image and video analysis.
+
+Key features include:
+
+- AI-based accident detection
+- Image and video analysis
+- Real-time accident detection
+- Emergency response
+- Team-based system development
+
+### 2. College Management System
+
+A college management system developed to manage student and faculty
+records and improve administrative efficiency.
+
+Key features include:
+
+- Student record management
+- Faculty record management
+- Attendance tracking
+- Marks management
+- Reduction of manual work
+
+### 3. College Course Registration System
+
+A course registration system designed to simplify the process of course
+selection and registration.
+
+The system focuses on:
+
+- Course catalogue browsing
+- Course preference management
+- Timetable conflict checking
+- Registration history
+- Academic credit progress tracking
+
+### 4. Adaptive Behavioral Trust Network
+
+ABTN is a self-learning trust-based network defense concept for
+decentralized environments.
+
+The project focuses on adapting trust decisions according to
+network behavior.
+
+## Technologies Used
 
 - HTML
 - CSS
@@ -20,22 +137,13 @@ machine learning, web development, and technology-driven solutions.
 - Git
 - GitHub
 
-## Featured Projects
+## Portfolio Structure
 
-### ResQ Vision
-
-ResQ Vision is an AI-powered accident detection and emergency response system that uses computer vision to detect road accidents through CCTV cameras and automatically generate alerts with location and severity information for faster emergency assistance.
-
-### College Course Registration System
-
-Course registration platform supporting course browsing,
-preference selection, timetable conflict checking, registration,
-and academic credit tracking.
-
-## Website
-
-This portfolio is deployed using GitHub Pages.
-
-## Author
-
-Sukanya Immadisetty
+```text
+portfolio/
+│
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+└── Sukanya_Immadisetty_Resume.pdf
